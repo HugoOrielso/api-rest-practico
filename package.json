@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-practico",
+  "version": "1.0.0",
+  "description": "Consumo de API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoOrielso/api-rest-practico.git"
+  },
+  "author": "HugoOrielso",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoOrielso/api-rest-practico/issues"
+  },
+  "homepage": "https://github.com/HugoOrielso/api-rest-practico#readme"
+}
